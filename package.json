@@ -1,0 +1,26 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Users can store their tasks in a database, see their tasks, and mark them complete.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HJBowers/todolist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HJBowers/todolist/issues"
+  },
+  "homepage": "https://github.com/HJBowers/todolist#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  }
+}
